@@ -13,10 +13,10 @@
   url = "#slider"
   weight = 20
 
-[[main]]
-  name = "Collaborators"
-  url = "#slider2"
-  weight = 30
+# [[main]]
+#   name = "Collaborators"
+#   url = "#slider2"
+#   weight = 30
 
 [[main]]
   name = "About Us"
